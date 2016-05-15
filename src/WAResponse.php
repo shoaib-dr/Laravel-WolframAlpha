@@ -63,4 +63,3 @@ class WAResponse {
     return $this->assumptions;
   }
 }
-?>
